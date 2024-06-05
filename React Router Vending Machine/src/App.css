@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    background: #eee;
+    padding: 1rem;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  nav a.active {
+    font-weight: bold;
+    color: #000;
+  }
+  
+  div {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
